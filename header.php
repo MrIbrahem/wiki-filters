@@ -7,7 +7,7 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <link rel="icon" href="https://www.mediawiki.org/static/images/icons/mediawikiwiki.svg" type="image/svg+xml">
-    <title tt='tool_title'></title>
+    <title>لوحة مراقبة التعديلات </title>
     <link href="https://tools-static.wmflabs.org/cdnjs/ajax/libs/bootstrap/5.3.0/css/bootstrap.min.css" rel="stylesheet">
     <link href="https://tools-static.wmflabs.org/cdnjs/ajax/libs/bootstrap-icons/1.11.3/font/bootstrap-icons.min.css" rel='stylesheet' type='text/css'>
     <link href="https://tools-static.wmflabs.org/cdnjs/ajax/libs/font-awesome/6.7.2/css/all.min.css" rel="stylesheet">
@@ -34,7 +34,7 @@
                 <ul class="navbar-nav flex-row flex-wrap bd-navbar-nav ms-auto mb-2 mb-lg-0">
                     <li class="nav-item col-4 col-lg-auto">
                         <a class="nav-link" href="dashboard.php">
-                        <i class="fas fa-timeline"></i> المرشحات
+                            <i class="fas fa-timeline"></i> المرشحات
                         </a>
                     </li>
                     <li class="nav-item col-4 col-lg-auto">

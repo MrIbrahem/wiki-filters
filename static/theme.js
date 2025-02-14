@@ -48,7 +48,6 @@ function createThemeMenu() {
     Object.entries(themes).forEach(([value, { icon, label }]) => {
         const item = document.createElement('button');
         item.className = 'theme-menu-item';
-        // item.innerHTML = `<i class="bi ${icon}"></i> <span tt='theme_${label}'></span>`;
         item.innerHTML = `<i class="bi ${icon}"></i> ${label}`;
         item.addEventListener('click', () => {
             localStorage.setItem('theme', value);
