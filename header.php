@@ -27,7 +27,7 @@
             <a class="navbar-brand" href="index.php">
                 <i class="bi bi-filter ms-2"></i> لوحة مراقبة التعديلات
             </a>
-            <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+            <button class="navbar-toggler me_ms_by_dir" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
                 <span class="navbar-toggler-icon"></span>
             </button>
             <div class="collapse navbar-collapse" id="navbarSupportedContent">
@@ -43,14 +43,16 @@
                         </a>
                     </li>
                 </ul>
-                <div class="d-flex">
-                    <div class="navbar-text nav-item col-4 col-lg-auto">
+                <ul class="navbar-nav flex-row flex-wrap bd-navbar-nav me-ms-auto">
+                    <li class="nav-item col-6 col-lg-auto">
                         <a class="nav-link" href="#login.php">تسجيل الدخول</a>
-                    </div>
-                    <button class="navbar-text theme-toggle btn btn-link me-2" aria-label="Toggle theme">
-                        <i class="bi bi-moon-stars-fill"></i>
-                    </button>
-                </div>
+                    </li>
+                </ul>
+            </div>
+            <div class="d-flex">
+                <button class="navbar-text theme-toggle btn btn-link me-2" aria-label="Toggle theme">
+                    <i class="bi bi-moon-stars-fill"></i>
+                </button>
             </div>
         </div>
     </nav>
