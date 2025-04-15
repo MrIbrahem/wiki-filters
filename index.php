@@ -12,7 +12,7 @@ echo <<<HTML
             <div class="container mt-3 text-center">
                 <h1>لوحة مراقبة التعديلات</h1>
                 <p>تتبع وفلترة التعديلات عبر مشاريع ويكيميديا ​​بسهولة.</p>
-                <a href="#login.php" class="btn btn-outline-primary">سجل دخول للبدء</a>
+                <a href="login.php" class="btn btn-outline-primary">سجل دخول للبدء</a>
             </div>
 
             </div>

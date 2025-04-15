@@ -45,7 +45,7 @@
                 </ul>
                 <ul class="navbar-nav flex-row flex-wrap bd-navbar-nav me-ms-auto">
                     <li class="nav-item col-6 col-lg-auto">
-                        <a class="nav-link" href="#login.php">تسجيل الدخول</a>
+                        <a class="nav-link" href="login.php">تسجيل الدخول</a>
                     </li>
                 </ul>
             </div>
